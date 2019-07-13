@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  XibLocalizationDemo
+
+  Created by work on 2019/7/13.
+  Copyright © 2019 wuflappy. All rights reserved.
+*/
+
+"testLabelKey" = "国际化标签测试";
