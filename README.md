@@ -12,7 +12,7 @@ extension String {
 }
 
 
-////MARK: - Controls IBInspect extension
+//MARK: - Controls IBInspect extension
 extension UILabel {
     @IBInspectable var LocalizeKey: String? {
         get { return nil}
